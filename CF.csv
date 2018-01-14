@@ -1,0 +1,26 @@
+﻿Code,Attribute
+0,None
+1,"Inadequate Warning of Exits, Lanes Narrowing, Traffic Controls, etc."
+2,Shoulder Design or Condition
+3,Other Maintenance or Construction-Created Condition
+4,No or Obscured Pavement Marking
+5,Surface Under Water
+6,"Inadequate Construction or Poor Design of Roadway, Bridge, etc."
+7,"Surface Washed Out (caved-in, road slippage)"
+13,Aggressive Driving / Road Rage by Non-Contact Vehicle Driver
+14,"Motor Vehicle Struck by Falling Cargo, or Something That Came Loose from, Or Something That was Set-in-Motion by a Vehicle."
+15,"Non-Occupant Struck by Falling Cargo, or Something That Came Loose from, or Something that was Set-in-Motion by a Vehicle"
+16,Non-Occupant Struck Vehicle
+17,Vehicle Set-in-Motion by Non-Driver
+18,Date of Crash and Date of EMS Notification Were Not the Same Day
+19,Recent Previous Crash Scene Nearby
+20,Police Pursuit Involved
+21,Within Designated School Zone
+22,Speed Limit is a Statutory Limit as Recorded or was Determined as This State’s “Basic Rule”
+23,Indication of a Stalled/Disabled Vehicle
+24,Unstabilized Situation Began and All Harmful Events Occurred Off of the Roadway
+25,Toll Booth /Plaza Related
+26,Backup Due to Prior Non-Recurring Incident
+27,Backup Due to Prior Crash
+28,Backup Due to Regular Congestion
+99,Unknown
