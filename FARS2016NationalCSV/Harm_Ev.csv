@@ -1,0 +1,55 @@
+Code,Attribute
+1,Rollover/Overturn
+2,Fire/Explosion
+3,Immersion or Partial Immersion
+4,Gas Inhalation
+51,Jackknife (harmful to this vehicle)
+6,Injured in Vehicle (Non-Collision)
+44,"Pavement Surface Irregularity (Ruts, Potholes, Grates, etc.)"
+7,Other Non-Collision
+16,Thrown or Falling Object
+72,Cargo/Equipment Loss or Shift (harmful to this vehicle)
+5,Fell/Jumped from Vehicle
+99,Unknown
+12,Motor Vehicle In-Transport
+54,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In-Transport"
+55,Motor Vehicle in Motion Outside the Trafficway
+8,Pedestrian
+9,Pedalcyclist
+10,Railway Vehicle
+74,Road Vehicle on Rails
+11,Live Animal
+49,Ridden Animal or Animal Drawn Conveyance
+18,Other Object (Not Fixed)
+15,Non-Motorist on Personal Conveyance
+14,Parked Motor Vehicle
+45,Working Motor Vehicle
+73,Object That Had Fallenfrom Motor Vehicle In-Transport
+17,Boulder
+19,Building
+58,Ground
+20,Impact Attenuator/Crash Cushion
+50,Bridge Overhead Structure
+21,Bridge Pier or Support
+23,Bridge Rail (Includes Parapet)
+24,Guardrail Face
+52,Guardrail End
+25,Concrete Traffic Barrier
+57,Cable Barrier
+26,Other Traffic Barrier
+59,Traffic Sign Support
+46,Traffic Signal Support
+30,Utility Pole/Light Support
+31,"Other Post, Other Pole, or Other Supports"
+32,Culvert
+33,Curb
+34,Ditch
+35,Embankment
+38,Fence
+39,Wall
+40,Fire Hydrant
+41,Shrubbery
+42,Tree (Standing Only)
+48,Snow Bank
+53,Mail Box
+43,Other Fixed Object
