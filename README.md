@@ -36,7 +36,8 @@ Andrea Kwong
       Is there association between the number of fatalities and lighting? 
       What about drunk driving and lighting?
 3.    TIME OF DAY
-      What are some differences between holidays/weekend vs weekday crashes in relation to the number of fatalities, whether drunk      driving was involved, the time of hour and type of harmful events.  
+      What are some differences between holidays/weekend vs weekday crashes in relation to the number of fatalities, 
+      whether drunk driving was involved, the time of hour and type of harmful events.  
       Which states and counties had the most crashes?
 4.    HARMFUL EVENTS 
       What types of crash occur more frequently, for what age groups?  
